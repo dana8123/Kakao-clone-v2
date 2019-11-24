@@ -58,3 +58,7 @@
 .friend .friend__now-listening span {
 	opacity: 0.6;
 }
+
+.friend--lg {
+	padding: 8px 0px;
+}
